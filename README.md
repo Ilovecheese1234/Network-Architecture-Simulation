@@ -18,7 +18,7 @@ The projects serves as a simulation of how to implement network infrastructure f
 
 ### External and Internal Services
 * **DHCP and DNS Servers** Auto assignment of network information for outsiders to connect to the internet within the cinema.
-* * **Web Server** For demonstrating the cinema's most up-to-date information to the public.
+* **Web Server** For demonstrating the cinema's most up-to-date information to the public.
 * **FTP Servers** Internal file management storage for storing important documents.
 * **Mail Server** Allows employees and staff members to send sensitive information within the securred intranet.
 
@@ -42,7 +42,7 @@ The projects serves as a simulation of how to implement network infrastructure f
 
 1. Install Cisco Packet Tracer, presumably with version higher than 6.1.1
 2. Run the following command in terminal to get the project 
-git clone "https://github.com/Ilovecheese1234/Network-Architecture-Simulation" 
+git clone https://github.com/Ilovecheese1234/Network-Architecture-Simulation
 3. Enjoy
 
 ---

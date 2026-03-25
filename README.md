@@ -41,7 +41,7 @@ The projects serves as a simulation of how to implement network infrastructure f
 ## 🚀 Running the Project
 
 1. Install Cisco Packet Tracer, presumably with version higher than 6.1.1
-2. Run the following command in terminal to get the project \\
+2. Run the following command in terminal to get the project <br>
 git clone https://github.com/Ilovecheese1234/Network-Architecture-Simulation
 3. Enjoy
 

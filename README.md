@@ -1,8 +1,7 @@
 # Enterprise Network Architecture Simulation for Cinema Infrastructure 
 
-A robust client-server networking project built for my final HKDSE Information & Communication Technology (ICT) School-Based Assessment. The project scored a 98/100 for project execution and work innovation. (2 marks deducted since I scored low on written exam on the actual DSE)
+A robust client-server networking project built for coursework and personal interest.
 
-This is an academic submission for reference. Plagarism is strictly prohibited and the author is not liable to any offense committed by outsiders.
 ---
 
 ## 📖 Project Overview
